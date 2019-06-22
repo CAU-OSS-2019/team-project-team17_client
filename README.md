@@ -1,9 +1,9 @@
 # GameHaeDuo
-Find your **BEST DUO** from GameHaeDuo and **WIN** in 'League Of Legend'
+Find your **BEST DUO** through GameHaeDuo and **WIN** in 'League Of Legend'
 
 
 ## About GameHaeDuo
-* Find appropriate duo using Matching Algorithm
+* Find an appropriate duo using Matching Algorithm
 * Tear Authentication
 * Add duo as friend Automatically
 
