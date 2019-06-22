@@ -21,8 +21,9 @@ Find your **BEST DUO** from GameHaeDuo and **WIN** in 'League Of Legend'
 
 ## Getting Started with GameHaeDuo
 1. Sign Up and Log In
-2. Put desired position and tear of duo
-3. Do match and win the game
+2. Put desired position of duo and my position
+3. Do match and check out duo's information
+4. Win the game
 
 
 ## Installation
