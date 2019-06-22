@@ -45,7 +45,7 @@ We are developing in 'develop' branch and functions are divided into topic branc
 
 
 ## License
-This project is licensed under the **GNU General Public License v3.0**. For more information, see the [LICENSE.md](https://github.com/CAU-OSS-2019/team-project-team17_client/blob/master/LICENSE) file.
+This project is licensed under the **GNU General Public License v3.0**. For more information, see the [LICENSE](https://github.com/CAU-OSS-2019/team-project-team17_client/blob/master/LICENSE) file.
 
 
 ## Other Repositories of GameHaeDuo
