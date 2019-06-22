@@ -27,7 +27,9 @@ Find your **BEST DUO** through GameHaeDuo and **WIN** in 'League Of Legend'
 
 
 ## Installation
-Write Something...
+```
+$ git clone https://github.com/CAU-OSS-2019/team-project-team17_client.git
+```
  
 
 ## Contribution
